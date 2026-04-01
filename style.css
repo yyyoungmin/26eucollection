@@ -56,9 +56,12 @@ summary {
     margin-left: 80px;
 }
 
-img {
-    width: 25vw;
+
+    img {
+  width: 90%;
+  height: auto;
 }
+
 
 img:hover {
     opacity: 70%;
