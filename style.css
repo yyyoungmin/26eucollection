@@ -11,6 +11,7 @@ body::before {
   background: url("grid.png") repeat;
   opacity: 0.3; /* 여기서 조절 */
   z-index: -1;
+	font-family: monospace;
 }
 
 details {
