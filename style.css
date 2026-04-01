@@ -25,6 +25,15 @@ details {
 
 }
 
+a {
+    color: lightpink;
+}
+
+a:hover {
+    color: gray;
+    background-color: goldenrod;
+}
+
 .text-middle {
     align-items: center;
 }
